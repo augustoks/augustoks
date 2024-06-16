@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @augustoks
+- 👋 Hi, I’m Augusto ;)
 - 👀 I’m interested in QA Tester
 - 🌱 I’m currently learning Python e PHP
 - 💞️ I’m looking to collaborate on Ambev
